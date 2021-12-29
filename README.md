@@ -1,5 +1,5 @@
 # Leticia Tomasio
-**Desenvolvedora Front-End**\
+**Desenvolvedora Front-end**\
 *Angular | React | React Native | Next.js | JavaScript | Typescript | Java | Spring*
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leticia%20Tomasio-57aae8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiatomasio/)](https://www.linkedin.com/in/leticiatomasio/) 
